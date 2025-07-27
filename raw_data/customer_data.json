@@ -1,0 +1,12 @@
+[
+  {
+    "id": "C001",
+    "name": "Alice",
+    "country": "India"
+  },
+  {
+    "id": "C002",
+    "name": "Bob",
+    "country": "USA"
+  }
+]
